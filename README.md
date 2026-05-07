@@ -1,4 +1,12 @@
-﻿# SpotControl
+vless://526457d6-3c6e-4073-a2f3-e24282a4dda8@213.165.42.90:37483?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=5W-NbCGiW15m7b3s9Rb7aaHrpAtai6lM1yy_SI8zi30&fp=chrome&sni=web.max.ru&sid=421cd930&spx=%2F#Httpup-%D0%A8BED
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ # SpotControl
 
 SpotControl — быстрый лаунчер для Windows на WPF (.NET 8).
 Открывается по глобальному хоткею `Alt+Space` и позволяет быстро находить приложения, файлы, папки, web-цели, alias-команды, результаты калькулятора и системные действия.
